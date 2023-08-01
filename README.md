@@ -20,8 +20,8 @@ This is a Python program that helps play the GamePigeon game Anagrams. It takes 
 <img src ="https://github.com/KriChau95/WordHuntSolver/assets/140979138/23e3d896-49d2-48e7-bf2c-19c70323ec21" width = "960 alt = "Word_Hunt_Boards">
 
 This is a Python program that helps play the GamePigeon game Word Hunt. It takes in the 16 letters that form the 4x4 board as input in the terminal, and it:
-1. displays in the terminal a list of all the words that can be found on that board. Along with a each word, it provides coordinate (a,b) that represents the starting square of the word and a series of directions that indicate where to swipe to reach each subsequent letter in the word
-2. ceates a new pygame window that displays the Top 50 longest, highest-scoring words on the board in a visual format
+1. Displays in the terminal a list of all the words that can be found on that board. Along with a each word, it provides the coordinate (a,b) that represents the starting square of the word and a series of directions that indicate where to swipe to reach each subsequent letter in the word
+2. Creates a new pygame window that displays the Top 50 longest, highest-scoring words on the board in a visual format
 
 # 3. WordHuntStats.py
 
@@ -36,10 +36,11 @@ This python program uses matplotlib to plot some interesting statistics and patt
 
 <img src="https://github.com/KriChau95/WordHuntSolver/assets/140979138/263553db-91f3-49b0-8597-09402e4f62c9" width="1000" alt="Word_Hunt_Stats">
 
-This python program uses:
-* OpenCV image capturing and processing in conjunction with
-* pytesseract text recognition
-and prompts the user to take a picture of their Word Hunt board. Open camera window, and then press the "s" key to capture the image of the board.
+This python finds all possible words in a Word Hunt 4x4 board by using:
+* OpenCV image capturing + processing
+* pytesseract text recognition <br/>
+
+**Instructions**: After running the .py file, open the Camera window, and then press the "s" key to capture the image of the Word Hunt board.
 It then carries out the functions described in **2. Word Hunt.py**
 
 # 5. Image and Text Files
