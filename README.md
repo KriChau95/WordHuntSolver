@@ -17,6 +17,7 @@ This is a Python program that helps play the GamePigeon game Anagrams. It takes 
 
 <img src="https://github.com/KriChau95/WordHuntSolver/assets/140979138/e6a9d08e-a0fd-4d40-b90d-16be4b81bcb7" width="352" alt="Word_Hunt_iPhone">
 <img src="https://github.com/KriChau95/WordHuntSolver/assets/140979138/49f6ec46-2bbe-4c72-8aeb-e5a01c3a3245" width="600" alt="Word_Hunt_Words">
+<img src ="https://github.com/KriChau95/WordHuntSolver/assets/140979138/23e3d896-49d2-48e7-bf2c-19c70323ec21" width = "960 alt = "Word_Hunt_Boards">
 
 This is a Python program that helps play the GamePigeon game Word Hunt. It takes in the 16 letters that form the 4x4 board as input in the terminal, and it:
 1. displays in the terminal a list of all the words that can be found on that board. Along with a each word, it provides coordinate (a,b) that represents the starting square of the word and a series of directions that indicate where to swipe to reach each subsequent letter in the word
