@@ -43,9 +43,9 @@ and prompts the user to take a picture of their Word Hunt board. Open camera win
 It then carries out the functions described in **2. Word Hunt.py**
 
 # 5. Image and Text Files
-**Transformations** is a folder used by WordHunter.py to store the intermediate image transformations performed by OpenCV
-**Dictionary.txt** is the reference dictionary that contains all the English words considered by the programs
-**ShavedDict.txt** is a modified dictionary that only contains words of 6 letters in length or shorter - used for **1. Anagrams.py**
+* **Transformations** is a folder used by WordHunter.py to store the intermediate image transformations performed by OpenCV
+* **Dictionary.txt** is the reference dictionary that contains all the English words considered by the programs
+* **ShavedDict.txt** is a modified dictionary that only contains words of 6 letters in length or shorter - used for **1. Anagrams.py**
 
 # Installations Required
 Modules which need to be downloaded and imported, along with the appropriate installation commands
