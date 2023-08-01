@@ -48,7 +48,7 @@ It then carries out the functions described in **2. Word Hunt.py**
 * **Dictionary.txt** is the reference dictionary that contains all the English words considered by the programs
 * **ShavedDict.txt** is a modified dictionary that only contains words of 6 letters in length or shorter - used for **1. Anagrams.py**
 
-# Installations Required
+# Required Installations
 Modules which need to be downloaded and imported, along with the appropriate installation commands
 
 * **PyGame**:  ```pip install pygame``` - Needed for 2,4
