@@ -7,13 +7,16 @@ Components:
 5. Image and Text Files
 
 # 1. Anagrams.py
+
+<img src="https://github.com/KriChau95/WordHuntSolver/assets/140979138/168fefc0-a17d-4493-9efd-89a3578aee98" width="252" alt="Anagram_iPhone">
+<img src="https://github.com/KriChau95/WordHuntSolver/assets/140979138/7f7a9e12-8ac7-4c69-8ea1-3c257f35afbc" width="700" alt="Anagram_Words">
+
 This is a Python program that helps play the GamePigeon game Anagrams. It takes in the 6 letters on the board provided as input and returns all possible words that can be formed using those 6 letters
 
 # 2. WordHunt.py
 
 <img src="https://github.com/KriChau95/WordHuntSolver/assets/140979138/e6a9d08e-a0fd-4d40-b90d-16be4b81bcb7" width="352" alt="Word_Hunt_iPhone">
-<img src="https://github.com/KriChau95/WordHuntSolver/assets/140979138/49f6ec46-2bbe-4c72-8aeb-e5a01c3a3245" width="600" alt="Word_Hunt_iPhone">
-
+<img src="https://github.com/KriChau95/WordHuntSolver/assets/140979138/49f6ec46-2bbe-4c72-8aeb-e5a01c3a3245" width="600" alt="Word_Hunt_Words">
 
 This is a Python program that helps play the GamePigeon game Word Hunt. It takes in the 16 letters that form the 4x4 board as input in the terminal, and it:
 1. displays in the terminal a list of all the words that can be found on that board. Along with a each word, it provides coordinate (a,b) that represents the starting square of the word and a series of directions that indicate where to swipe to reach each subsequent letter in the word
