@@ -25,7 +25,7 @@ This is a Python program that helps play the GamePigeon game Word Hunt. It takes
 
 # 3. WordHuntStats.py
 
-<img src="https://github.com/KriChau95/WordHuntSolver/assets/140979138/0a3558b7-f52a-43f2-a6fd-4c02b02857e2" width="1000" alt="Word_Hunt_Words">
+<img src="https://github.com/KriChau95/WordHuntSolver/assets/140979138/0a3558b7-f52a-43f2-a6fd-4c02b02857e2" width="1000" alt="Word_Hunt_Stats">
 
 This python program uses matplotlib to plot some interesting statistics and patterns across all the possible Word Hunt words. For example:
 * the frequency of every letter across that set of possible words
@@ -33,6 +33,9 @@ This python program uses matplotlib to plot some interesting statistics and patt
 * the weighted scores of the letters and substrings depending on the size of the words they appear in
 
 # 4. WordHunter.py
+
+<img src="https://github.com/KriChau95/WordHuntSolver/assets/140979138/263553db-91f3-49b0-8597-09402e4f62c9" width="1000" alt="Word_Hunt_Stats">
+
 This python program uses:
 * OpenCV image capturing and processing in conjunction with
 * pytesseract text recognition
