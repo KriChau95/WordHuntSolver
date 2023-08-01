@@ -36,7 +36,7 @@ This python program uses matplotlib to plot some interesting statistics and patt
 This python program uses:
 * OpenCV image capturing and processing in conjunction with
 * pytesseract text recognition
-and prompts the user to take a picture of their Word Hunt board
+and prompts the user to take a picture of their Word Hunt board. Open camera window, and then press the "s" key to capture the image of the board.
 It then carries out the functions described in **2. Word Hunt.py**
 
 # 5. Image and Text Files
