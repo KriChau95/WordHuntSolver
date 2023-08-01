@@ -24,6 +24,9 @@ This is a Python program that helps play the GamePigeon game Word Hunt. It takes
 2. ceates a new pygame window that displays the Top 50 longest, highest-scoring words on the board in a visual format
 
 # 3. WordHuntStats.py
+
+<img src="https://github.com/KriChau95/WordHuntSolver/assets/140979138/0a3558b7-f52a-43f2-a6fd-4c02b02857e2" width="1000" alt="Word_Hunt_Words">
+
 This python program uses matplotlib to plot some interesting statistics and patterns across all the possible Word Hunt words. For example:
 * the frequency of every letter across that set of possible words
 * the frequency of substrings of lengths 2-8 across that set of possible words
