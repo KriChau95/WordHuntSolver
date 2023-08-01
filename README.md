@@ -1,5 +1,5 @@
 # WordHuntSolver
-This program has a few components:
+Components:
 1. Anagrams.py
 2. WordHunt.py
 3. WordHuntStats.py
@@ -10,6 +10,11 @@ This program has a few components:
 This is a Python program that helps play the GamePigeon game Anagrams. It takes in the 6 letters on the board provided as input and returns all possible words that can be formed using those 6 letters
 
 # 2. WordHunt.py
+
+<img src="https://github.com/KriChau95/WordHuntSolver/assets/140979138/e6a9d08e-a0fd-4d40-b90d-16be4b81bcb7" width="352" alt="Word_Hunt_iPhone">
+<img src="https://github.com/KriChau95/WordHuntSolver/assets/140979138/49f6ec46-2bbe-4c72-8aeb-e5a01c3a3245" width="600" alt="Word_Hunt_iPhone">
+
+
 This is a Python program that helps play the GamePigeon game Word Hunt. It takes in the 16 letters that form the 4x4 board as input in the terminal, and it:
 1. displays in the terminal a list of all the words that can be found on that board. Along with a each word, it provides coordinate (a,b) that represents the starting square of the word and a series of directions that indicate where to swipe to reach each subsequent letter in the word
 2. ceates a new pygame window that displays the Top 50 longest, highest-scoring words on the board in a visual format
